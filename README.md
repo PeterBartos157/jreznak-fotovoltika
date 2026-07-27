@@ -99,16 +99,6 @@ build: {
 
 ---
 
-## 📧 EmailJS konfigurácia
-
-```txt
-service_u0o526q
-template_8ok3nr8
-GbLOE0nI_kQhVeqJH
-```
-
----
-
 ## ✅ Validácie formulára
 
 - Meno a priezvisko
