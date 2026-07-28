@@ -1,1 +1,0 @@
-import{B as e,G as t,J as n,Y as r,_ as i,st as a}from"./QBtn-D2YUJNnh.js";import{t as o}from"./Future-BY8CfmVr.js";import{n as s,r as c,t as l}from"./Testimony-SUt9DsWg.js";var u=i(r({__name:`ProjectPage`,setup(r){return(r,i)=>(a(),t(e,null,[n(c,{class:`feat-project-grid`}),n(l),n(s),n(o)],64))}}),[[`__scopeId`,`data-v-7f7057bd`]]);export{u as default};
